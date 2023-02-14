@@ -28,3 +28,10 @@ _ local - your personal computer
 - Eat When im hungry
 - get to lift err day
 - spend lots of time in the morning with the wifey 
+
+
+##pets names
+- Julie
+- Rufus
+- Freedom
+- Benji
