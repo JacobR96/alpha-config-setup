@@ -21,3 +21,9 @@ _ local - your personal computer
 - one  nothing wrong with me
 - two nothings wrong with me 
 - three somthings got to give
+
+
+### Learing Viturally
+-  Chilling with the dogs
+- Eat When im hungry
+- get to lift err day
