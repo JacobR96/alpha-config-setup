@@ -19,5 +19,5 @@ _ local - your personal computer
 
 ###How mate
 - one  nothing wrong with me
--two nothings wrong with me 
+- two nothings wrong with me 
 - three somthings got to give
