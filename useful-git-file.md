@@ -27,3 +27,4 @@ _ local - your personal computer
 -  Chilling with the dogs
 - Eat When im hungry
 - get to lift err day
+- spend lots of time in the morning with the wifey 
