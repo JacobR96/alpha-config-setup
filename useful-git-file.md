@@ -38,3 +38,10 @@ _ local - your personal computer
 ## Branching vocab
 - branch - and alternate timeline where a developer can code saftly
 - check out -b - creates a n ew branch that doesnt currently exist
+
+
+### Branching Commands
+- $ `git checkout -b branching-name`
+- $ `git branch` - lists all the current branches on your local
+- $ `git checkout main`
+- $ `git branch -d branch-name`
