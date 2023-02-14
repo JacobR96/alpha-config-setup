@@ -31,7 +31,7 @@ _ local - your personal computer
 
 
 ##pets names
-- Julie
-- Rufus
-- Freedom
-- Benji
+- Julie loves to sleep
+- Rufus loves to eat
+- Freedom loves to eat and be petted 
+- Benji loves to cuddle
