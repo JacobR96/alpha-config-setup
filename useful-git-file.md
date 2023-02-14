@@ -9,7 +9,7 @@
 - git commit -m 
 - git push orgin main
 
-###Vocab
+### Vocab
 
 - repository (repo) -a named folder on Github
 - git- version control software 
@@ -17,7 +17,7 @@
 _ local - your personal computer
 - chimmy cunga
 
-###How mate
+### How mate
 - one  nothing wrong with me
 - two nothings wrong with me 
 - three somthings got to give
@@ -30,8 +30,11 @@ _ local - your personal computer
 - spend lots of time in the morning with the wifey 
 
 
-##pets names
+## pets names
 - Julie loves to sleep
 - Rufus loves to eat
 - Freedom loves to eat and be petted 
 - Benji loves to cuddle
+## Branching vocab
+- branch - and alternate timeline where a developer can code saftly
+- check out -b - creates a n ew branch that doesnt currently exist
