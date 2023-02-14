@@ -35,3 +35,7 @@ _ local - your personal computer
 - Rufus loves to eat
 - Freedom loves to eat and be petted 
 - Benji loves to cuddle
+
+### Notes About Branching
+- Branchong is fun
+- branching is a way to create redunudancy in you code
